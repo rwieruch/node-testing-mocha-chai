@@ -20,6 +20,7 @@
     "nodemon": "^1.19.0"
   },
   "dependencies": {
-    "dotenv": "^8.0.0"
+    "dotenv": "^8.0.0",
+    "sinon": "^7.3.2"
   }
 }
